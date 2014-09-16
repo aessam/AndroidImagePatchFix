@@ -1,5 +1,5 @@
 
-How Painful it is to manage Android project image assists by your self.
+How Painful it is to manage Android project image assets? (resizing and organizing into folders)
 
 Just goto the images folder and run the script (It requires http://imagemagick.org to be installed)
 
